@@ -25,8 +25,8 @@ This means that even if engineers send a command to Voyager 1, they cannot expec
 
 Voyager 1 continues its journey through interstellar space, carrying with it the **Golden Record** – a collection of sounds, images and messages representing life on Earth.
 
-![](OLD_1.jpeg)
-
 It is a remarkable reminder of how far humanity's exploration has reached.
+
+![](OLD_1.jpeg)
 
 © NESTIMS
