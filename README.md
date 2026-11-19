@@ -1,6 +1,6 @@
 # One Light-Day
 
-<img src="[https://github.com/NebulaStack-prog/One-Light-Day-2026/blob/main/OLD.png](https://github.com/NebulaStack-prog/One-Light-Day-2026/blob/main/OLD.png)" width="200" height="230">
+<img src="[](https://github.com/NebulaStack-prog/One-Light-Day-2026/blob/main/OLD.png)" width="200" height="230">
 
 - **ID:** NS-P006
 - **Date:** 18.11.26
